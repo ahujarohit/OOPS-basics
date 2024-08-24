@@ -22,6 +22,8 @@ Welcome to the "Mastering OOPS Basics in Java" series! This foundational course 
 - **Static Data, Static Blocks, and Static Functions:** Delve into the static keyword in Java, exploring static data members, static blocks, and static methods, along with practical examples.
 - **Final Keyword:** Discover the significance of the `final` keyword, and learn how to use final data members, methods, and classes effectively.
 - **Abstract Classes and Methods:** Gain insights into abstraction, one of the four pillars of OOP, and understand how to implement abstract classes and methods in Java.
+- **OOPS Interview Questions**: To help you prepare for job interviews, we'll cover some common and essential OOPS-related interview questions in Java.
+- **Hands-on Assignment**: You'll also receive an assignment to practice and implement the OOP concepts learned in this series. This practical exercise will reinforce your understanding and help you build confidence in Java programming.
 
 This series is perfect for anyone looking to solidify their OOP knowledge and build a strong foundation in Java programming. Each topic is explained with clarity and backed by practical examples, ensuring you can apply these concepts in real-world scenarios. By the end of this series, you'll be well-equipped to move on to more advanced OOP topics and related Java concepts like interfaces, enums, and packages.
 
